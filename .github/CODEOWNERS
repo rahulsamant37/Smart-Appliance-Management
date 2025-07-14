@@ -1,0 +1,14 @@
+.github @rahulsamant37
+.streamlit/config.toml @rahulsamant37
+
+assets/css @rahulsamant37
+backend  @rahulsamant37
+customer_agent @rahulsamant37
+database @rahulsamant37
+engineer_agent @rahulsamant37
+inference @rahulsamant37
+pages @rahulsamant37
+
+customer_app.py @rahulsamant37
+engineer_app.py @rahulsamant37
+requirements.txt @rahulsamant37
